@@ -2,9 +2,9 @@
   --accent-color-fallback: 138,92,245;
 }
 
-.callout[data-callout="quote"] {
+.callout[data-callout="cite"] {
   --callout-color: transparent;
-  --callout-icon: quote;
+  
   display: flex;
   flex-direction: column-reverse;
   border-left: solid;
@@ -13,14 +13,14 @@
   box-shadow: rgba(var(--accent-color, var(--accent-color-fallback)), 0.1) 5px 5px 5px;
 }
 
-.callout[data-callout="quote"] > .callout-title {
+.callout[data-callout="cite"] > .callout-title {
   display: flex;
   justify-content: flex-end;
   padding-right: 20px;
   font-style: italic;
 }
 
-.callout[data-callout="quote"] .callout-content p {
+.callout[data-callout="cite"] .callout-content p {
   margin-top: 0;
   font-style: italic;
 }
