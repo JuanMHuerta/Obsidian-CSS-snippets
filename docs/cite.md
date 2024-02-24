@@ -16,3 +16,6 @@ Modifies the standard quote callout.
 
 ![image](https://github.com/JuanMHuerta/Obsidian-CSS-snippets/assets/309788/f17b67a2-22c3-4591-9a72-d272ebec9ffb)
 
+## css
+
+[cite.css](../snippets/cite.css)
