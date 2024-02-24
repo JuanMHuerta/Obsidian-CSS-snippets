@@ -1,5 +1,7 @@
 # cite.css
-Modifies the standard quote callout.
+Modifies the standard quote callout moving the title and icon to the bottom and adding an accented border and shadow.
+
+Inspired by [Rushi's](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) Author Callout.
 
 ## Usage
 ```md
