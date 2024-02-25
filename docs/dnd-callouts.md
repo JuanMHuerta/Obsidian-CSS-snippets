@@ -25,6 +25,7 @@ Adds "fight", "encounter", "enemies" callouts.
 
 ![image](https://github.com/JuanMHuerta/Obsidian-CSS-snippets/assets/309788/3e25281f-8469-4bf9-916c-e4ccd05558a7)
 
+---
 
 ### Fight / Encounter / Enemies
 
