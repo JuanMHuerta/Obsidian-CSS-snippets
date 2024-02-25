@@ -45,3 +45,8 @@ This example uses the [Fantasy Statblocks](https://github.com/javalent/fantasy-s
 **Dark Mode**
 
 ![image](https://github.com/JuanMHuerta/Obsidian-CSS-snippets/assets/309788/0bcba5cb-ccc0-482a-8efe-5da5e7f46683)
+
+
+## css
+
+[dnd-callouts.css](../snippets/dnd-callouts.css)
