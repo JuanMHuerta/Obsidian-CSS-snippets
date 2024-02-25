@@ -14,3 +14,5 @@ This is my collection CSS snippets for [Obsidian](https://obsidian.md/)
 - var.css -> Global variables
 
 - [cite](docs/cite.md) -> Modify the standard cite callout.
+
+- [dnd-callouts](docs/dnd-callouts.md) -> Adds callouts for treasure and encounters for D&D.
