@@ -1,0 +1,19 @@
+.callout[data-callout="reward"], .callout[data-callout="treasure"] {
+    --callout-color: 255, 215, 0;
+    --callout-icon: lucide-coins;
+    border-left: solid;
+    border-left-color: rgba(200, 175, 20, 0.8);
+    border-top: solid thin;
+    border-top-color: rgba(200, 175, 20, 0.8);
+    box-shadow: rgba(140, 130, 75, 0.1) 5px 5px 4px;
+}
+
+.callout[data-callout="fight"], .callout[data-callout="encounter"], .callout[data-callout="encounter"]{
+    --callout-color: 255, 20, 20;
+    --callout-icon: swords;
+    border-left: solid;
+    border-left-color: rgba(150, 10, 10, 0.8);
+    border-top: solid thin;
+    border-top-color: rgba(150, 10, 10, 0.8);
+    box-shadow: rgba(150, 75, 75, 0.1) 5px 5px 4px;
+}
